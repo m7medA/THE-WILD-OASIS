@@ -128,10 +128,12 @@ The-Wild-Oasis/
 
 MOHAMED AYMAN
 
-GitHub: [My github](https://github.com/m7medA)
+GitHub: [Explore My Projects](https://github.com/m7medA)
 
-LinkedIn: [Let's connect](https://www.linkedin.com/in/mohammed-ayman-910706268/)
+LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/mohammed-ayman-910706268/)
 
-🙌 Acknowledgements
+---
+
+## 🙌 Acknowledgements
 
 Inspired by the Jonas Schmedtmann course on Udemy — a comprehensive guide to mastering React, Supabase, and modern full-stack development.
