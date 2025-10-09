@@ -5,7 +5,18 @@
 <h1 align="center">🏝️ The Wild Oasis — Admin Dashboard</h1>
 
 <p align="center">
-  Manage cabins, bookings, and guests efficiently with a modern, data-driven dashboard built for hotel administrators.
+  <a href="https://camo.githubusercontent.com/fab679e87227fb246fb9f9d678d10d660b1aa23158a708ecd2a591cb1e1de97f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374617475732d436f6d706c657465642d737563636573733f7374796c653d666c6174" target="_blank">
+    <img src="https://camo.githubusercontent.com/fab679e87227fb246fb9f9d678d10d660b1aa23158a708ecd2a591cb1e1de97f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374617475732d436f6d706c657465642d737563636573733f7374796c653d666c6174" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-ayman-910706268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/m7medA" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40m7medA-orange?style=for-the-badge" alt="Follow on GitHub" />
+  </a>
 </p>
 
 ---
