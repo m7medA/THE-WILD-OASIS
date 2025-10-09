@@ -1,0 +1,124 @@
+<p align="center">
+  <img src="https://github.com/m7medA/THE-WILD-OASIS/blob/master/public/img/logo-dark.png" alt="The Wild Oasis Logo" width="200" />
+</p>
+
+<h1 align="center">🏝️ The Wild Oasis — Admin Dashboard</h1>
+
+<p align="center">
+  Manage cabins, bookings, and guests efficiently with a modern, data-driven dashboard built for hotel administrators.
+</p>
+
+---
+
+## 🌍 Live Demo
+
+[👉 Visit Live Website](https://the-wild-oasis-alamin.vercel.app)
+
+---
+
+## ✨ Features
+
+- 🔐 Secure authentication & authorization (Supabase)
+- 📊 Interactive dashboard with booking, sales, and occupancy stats
+- 🏠 Manage cabins — create, edit, and delete
+- 📅 Manage bookings — confirm, check-in, and check-out
+- 📈 Real-time data updates and notifications
+- 🌙 Dark & Light mode support
+- 📉 Data visualization with **Recharts**
+- ⚡ Optimized data fetching and caching using **React Query**
+- 🎨 Responsive and modern UI with **Styled Components**
+
+---
+
+## 🛠️ Tech Stack
+
+| Category         | Technologies      |
+| ---------------- | ----------------- |
+| **Frontend**     | React (Vite)      |
+| **State & Data** | React Query       |
+| **Routing**      | React Router      |
+| **Styling**      | Styled Components |
+| **Database**     | Supabase          |
+| **Charts**       | Recharts          |
+| **Code Quality** | ESLint, Prettier  |
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/CodeWithAlamin/The-Wild-Oasis.git
+```
+
+### 2️⃣ Install Dependencies
+
+````cd The-Wild-Oasis
+npm install```
+
+### 3️⃣ Setup Environment Variables
+
+Create a .env file in the project root (you can copy .env.example) and add your Supabase credentials.
+
+### 4️⃣ Start the Development Server
+
+```npm run dev```
+
+Then open your browser at:
+
+```
+👉 http://localhost:3000
+````
+
+---
+
+## 🧩 Project Structure
+
+The-Wild-Oasis/
+├── public/
+├── src/
+│ ├── components/
+│ ├── features/
+│ ├── hooks/
+│ ├── pages/
+│ ├── styles/
+│ └── utils/
+├── .env.example
+├── package.json
+├── vite.config.js
+└── README.md
+
+---
+
+## 💡 What I Learned
+
+- Implementing authentication & role-based authorization with Supabase
+
+- Using React Query for server-state management and caching
+
+- Handling real-time updates with Supabase subscriptions
+
+- Building scalable, modular React architecture
+
+- Designing responsive UIs with styled-components
+
+- Managing light/dark themes effectively
+
+- Creating data-driven dashboards with charts and metrics
+
+---
+
+## 👨‍💻 Author
+
+MOHAMED AYMAN
+
+GitHub: (My github)[https://github.com/m7medA]
+
+LinkedIn: (Let's connect)[https://www.linkedin.com/in/mohammed-ayman-910706268/]
+
+🙌 Acknowledgements
+
+Inspired by the Jonas Schmedtmann course on Udemy — a comprehensive guide to mastering React, Supabase, and modern full-stack development.
