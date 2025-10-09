@@ -23,7 +23,7 @@
 
 ## 🌍 Live Demo
 
-[👉 Visit Live Website](https://the-wild-oasis-alamin.vercel.app)
+Check out the live admin app here: [👉 Visit Live Website](https://the-wild-oasis-m7meda.netlify.app/)
 
 ---
 
@@ -88,6 +88,7 @@ Then open your browser at:
 
 ## 🧩 Project Structure
 
+```
 The-Wild-Oasis/
 ├── public/
 ├── src/
@@ -101,6 +102,7 @@ The-Wild-Oasis/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
 ---
 
@@ -126,10 +128,12 @@ The-Wild-Oasis/
 
 MOHAMED AYMAN
 
-GitHub: (My github)[https://github.com/m7medA]
+GitHub: [Explore My Projects](https://github.com/m7medA)
 
-LinkedIn: (Let's connect)[https://www.linkedin.com/in/mohammed-ayman-910706268/]
+LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/mohammed-ayman-910706268/)
 
-🙌 Acknowledgements
+---
+
+## 🙌 Acknowledgements
 
 Inspired by the Jonas Schmedtmann course on Udemy — a comprehensive guide to mastering React, Supabase, and modern full-stack development.
