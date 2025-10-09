@@ -5,6 +5,10 @@
 <h1 align="center">🏝️ The Wild Oasis — Admin Dashboard</h1>
 
 <p align="center">
+  https://camo.githubusercontent.com/fab679e87227fb246fb9f9d678d10d660b1aa23158a708ecd2a591cb1e1de97f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374617475732d436f6d706c657465642d737563636573733f7374796c653d666c6174
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammed-ayman-910706268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge" alt="LinkedIn" />
   </a>
