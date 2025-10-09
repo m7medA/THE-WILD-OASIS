@@ -23,7 +23,7 @@
 
 ## 🌍 Live Demo
 
-[👉 Visit Live Website](https://the-wild-oasis-m7meda.netlify.app/)
+Check out the live admin app here: [👉 Visit Live Website](https://the-wild-oasis-m7meda.netlify.app/)
 
 ---
 
