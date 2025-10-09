@@ -88,6 +88,7 @@ Then open your browser at:
 
 ## 🧩 Project Structure
 
+```
 The-Wild-Oasis/
 ├── public/
 ├── src/
@@ -101,6 +102,7 @@ The-Wild-Oasis/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
 ---
 
