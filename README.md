@@ -5,7 +5,12 @@
 <h1 align="center">🏝️ The Wild Oasis — Admin Dashboard</h1>
 
 <p align="center">
-  Manage cabins, bookings, and guests efficiently with a modern, data-driven dashboard built for hotel administrators.
+  <a href="https://www.linkedin.com/in/mohammed-ayman-910706268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/m7medA" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40YourUsername-gray?style=for-the-badge" alt="Follow on GitHub" />
+  </a>
 </p>
 
 ---
