@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://github.com/m7medA" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-%40YourUsername-gray?style=for-the-badge" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/Follow-%40m7medA-orange?style=for-the-badge" alt="Follow on GitHub" />
   </a>
 </p>
 
