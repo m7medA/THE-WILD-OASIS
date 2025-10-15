@@ -62,7 +62,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/CodeWithAlamin/The-Wild-Oasis.git
+git clone https://github.com/m7medA/THE-WILD-OASIS.git
 ```
 
 ### 2️⃣ Install Dependencies
